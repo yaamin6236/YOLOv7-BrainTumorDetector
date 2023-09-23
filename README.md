@@ -3,6 +3,7 @@
 ## Brain Tumor Detector
 
 A computer vision application designed to detect brain tumors in MRI scans using the YOLOv7 model.
+![Brain](https://github.com/yaamin6236/YOLOv7-BrainTumorDetector/assets/23041081/665db601-69b5-4e46-a404-e8113a8515bb)
 
 ## Overview
 
